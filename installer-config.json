@@ -1,0 +1,11 @@
+{
+    "assemblyName": "Agilent3070",
+    "converterClass": "Virinco.WATS.Converter.Keysight.Agilent3070Converter",
+    "displayName": "Keysight Agilent 3070 ICT Converter",
+    "description": "Converts Keysight/Agilent 3070 ICT test result files to WATS UUT reports.",
+    "version": "1.0.0",
+    "fileFilter": "*.txt",
+    "uploadPath": "C:\\ProgramData\\Virinco\\WATS\\KeysightConverters",
+    "postProcessAction": "Archive",
+    "productGuid": "8c988154-9c8c-4f64-bbbe-7377864a7b21"
+}
